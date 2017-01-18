@@ -15,8 +15,7 @@
 
 .slideshow-container img {
   flex-shrink: 20;
-  min-width: 100%;
-  min-height: 100%
+  max-width: 75%;
 }
 
 /* Caption text */
